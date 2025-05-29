@@ -23,4 +23,10 @@ Everything runs inside Docker containers for easy setup.
 - **pandas**
 - **Docker + Docker Compose**
 
+## 📚 Acknowledgment
+
+This project is based on a learning exercise from the Udemy course:  
+**[The Complete Hands-On Course to Master Apache Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)** by *Marc Lamberti*.
+
+I recreated and extended the project for practice and personal learning. All credits for the original project structure and logic go to the course instructor.
 
