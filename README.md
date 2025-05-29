@@ -23,13 +23,4 @@ Everything runs inside Docker containers for easy setup.
 - **pandas**
 - **Docker + Docker Compose**
 
----
 
-## 📂 Project Files
-├── dags/ 
-│ └── user_processing_dag.py
-├── logs/ # Airflow logs
-├── .env 
-├── docker-compose.yaml # Docker setup
-├── requirements.txt # Python dependencies
-└── README.md 
